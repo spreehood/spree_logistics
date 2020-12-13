@@ -1,6 +1,11 @@
 # SpreeLogistics
 
-Introduction goes here.
+spree_delivery
+
+carrier_user_id, status, scheduled_on
+
+spree_delivery_events:
+Out for delivery, returned, trying for tomorrow
 
 ## Installation
 
